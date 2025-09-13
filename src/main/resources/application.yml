@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: internal-auth-lib
+
+jwt:
+  secret:
+    key: "${SECRET_KEY}"
