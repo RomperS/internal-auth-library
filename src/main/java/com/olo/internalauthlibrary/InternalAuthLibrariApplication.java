@@ -1,4 +1,4 @@
-package com.olo.internalauthlibrari;
+package com.olo.internalauthlibrary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

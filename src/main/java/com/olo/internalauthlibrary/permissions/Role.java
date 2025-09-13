@@ -1,7 +1,7 @@
-package com.olo.internalauthlibrari.permissions;
+package com.olo.internalauthlibrary.permissions;
 
-import com.olo.internalauthlibrari.exceptions.permissions.InvalidPermissionValueException;
-import com.olo.internalauthlibrari.exceptions.permissions.TitleDefaultNotFoundException;
+import com.olo.internalauthlibrary.exceptions.permissions.InvalidPermissionValueException;
+import com.olo.internalauthlibrary.exceptions.permissions.TitleDefaultNotFoundException;
 
 
 public enum Role {

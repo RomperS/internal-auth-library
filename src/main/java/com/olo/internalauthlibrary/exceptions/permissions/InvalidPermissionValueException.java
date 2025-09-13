@@ -1,6 +1,6 @@
-package com.olo.internalauthlibrari.exceptions.permissions;
+package com.olo.internalauthlibrary.exceptions.permissions;
 
-import com.olo.internalauthlibrari.exceptions.PermissionException;
+import com.olo.internalauthlibrary.exceptions.PermissionException;
 
 public class InvalidPermissionValueException extends PermissionException {
     public InvalidPermissionValueException(String message) {

@@ -1,7 +1,7 @@
-package com.olo.internalauthlibrari.security;
+package com.olo.internalauthlibrary.security;
 
-import com.olo.internalauthlibrari.exceptions.tokens.InvalidTokenTypeException;
-import com.olo.internalauthlibrari.permissions.*;
+import com.olo.internalauthlibrary.exceptions.tokens.InvalidTokenTypeException;
+import com.olo.internalauthlibrary.permissions.*;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.io.Decoders;

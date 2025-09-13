@@ -1,6 +1,6 @@
-package com.olo.internalauthlibrari.exceptions.tokens;
+package com.olo.internalauthlibrary.exceptions.tokens;
 
-import com.olo.internalauthlibrari.exceptions.PermissionException;
+import com.olo.internalauthlibrary.exceptions.PermissionException;
 
 public class InvalidTokenTypeException extends PermissionException {
     public InvalidTokenTypeException(String message) {

@@ -1,6 +1,6 @@
-package com.olo.internalauthlibrari.permissions;
+package com.olo.internalauthlibrary.permissions;
 
-import com.olo.internalauthlibrari.exceptions.permissions.InvalidPermissionValueException;
+import com.olo.internalauthlibrary.exceptions.permissions.InvalidPermissionValueException;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
