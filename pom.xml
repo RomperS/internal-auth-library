@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.olo</groupId>
-    <artifactId>internal-auth-librari</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>internal-auth-librari</name>
-    <description>internal-auth-librari</description>
+    <artifactId>internal-auth-library</artifactId>
+    <version>1.0</version>
+    <name>internal-auth-library</name>
+    <description>internal-auth-library</description>
     <url/>
     <licenses>
         <license/>
@@ -71,7 +71,7 @@
         <repository>
             <id>github-packages</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/RomperS/auth-internal-lib</url>
+            <url>https://maven.pkg.github.com/RomperS/internal-auth-library</url>
         </repository>
     </distributionManagement>
 

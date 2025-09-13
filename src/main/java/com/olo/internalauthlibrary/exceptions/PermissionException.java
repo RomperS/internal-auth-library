@@ -1,4 +1,4 @@
-package com.olo.internalauthlibrari.exceptions;
+package com.olo.internalauthlibrary.exceptions;
 
 public class PermissionException extends RuntimeException {
     public PermissionException(String message) {
